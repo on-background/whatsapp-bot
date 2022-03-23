@@ -7,7 +7,7 @@ The message sending loop could also be changed to modify its shape.
 
 ## Arguments
 - -t: target - Contact or group name 
-- -m: message - Message that you want to send to target n-times
+- -m: message - Message that you want to send to target n-times (accepts NON-ASCII characters p.e. emojis)
 - -n: number - Number of messages that you want to send
 
 ## Usage
