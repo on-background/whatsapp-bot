@@ -15,9 +15,9 @@ If you want to send 2 *"hello"* messages to the conversation called *Tests*:
   - ```python3 whatsapp_bot.py -t Test -m hello -n 2```
 
 If you want send 999 *"PRANK!"* messages to the group called *Friends*: 
-  - python3 whatsapp_bot.py -t Friends -m PRANK! -n 999```
+  - ```python3 whatsapp_bot.py -t Friends -m PRANK! -n 999```
 
 ## Dependencies
-- *Selenium*: pip install selenium
+- *Selenium*: ```pip install selenium
 - *Geckodriver*: @https://www.guru99.com/gecko-marionette-driver-selenium.html
 
